@@ -1,4 +1,4 @@
-# Chatbot_With_UI
+# Database AI Chatbot Agent
 
 Simple chatbot with a flask web interface.
 
