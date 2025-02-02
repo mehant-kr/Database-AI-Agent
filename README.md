@@ -9,6 +9,7 @@ Tools Used:
   2. Flask: for web gui
   3. GPT-4o mini: for language understanding
   4. Database: Information retreval from the connected database using RAG
+     Chinook Database is used: https://www.kaggle.com/datasets/anurag629/chinook-csv-dataset?select=Customer.csv
 
 <br>
 
@@ -37,5 +38,5 @@ Tools Used:
 <br>
 
 <p align="center">
-<img align="center" width="724" alt="Screen Shot 2024-01-11 at 1 49 47 PM" src="https://github.com/ashhass/Chatbot/assets/53818655/e6b2d942-0db5-4d40-b05a-b70d2b5fd042" >
+<img align="center" width="724" alt="Screen Shot 2024-01-11 at 1 49 47 PM" src="https://github.com/mehant-kr/Database-AI-Agent/blob/c6bb44a1229d110cdf4008ae45bc56abe9b0976d/assets/ss_ai_database_chatbot.png" >
 </p>
